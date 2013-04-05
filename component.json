@@ -1,0 +1,9 @@
+{
+  "name": "signals",
+  "repo": "lge88/js-signals.git",
+  "upstream": "git://github.com/millermedeiros/js-signals.git",
+  "scripts": [
+    "dist/signals.js"
+  ],
+  "main": "dist/signals.js"
+}
